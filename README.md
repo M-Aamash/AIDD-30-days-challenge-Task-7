@@ -1,7 +1,7 @@
 
-## Task 7 – SPECKit Plus (AIDD 30-Day Challenge)
+# Task 7 – SPECKit Plus (AIDD 30-Day Challenge)
 
-# 🔷 Short Note: What is SPECKit Plus?
+## 🔷 Short Note: What is SPECKit Plus?
 
 ### SPECKit Plus ek structured AI Agent Development framework hai jo developers ko step-by-step guide deta hai ke AI agents ko kaise samajhna, design, plan, aur implement karna hai.
 ### Is mein 5 core folders/sections hotay hain — constitution, specify, plan, tasks, aur implement — jin ki help se aap apne AI agent ka vision, goals, processes, tasks aur execution model clearly define kar sakte ho.
